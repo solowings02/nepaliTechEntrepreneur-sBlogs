@@ -1,0 +1,19 @@
+{
+  "name": "nepalitechentrepreneur-sblogs",
+  "version": "1.0.0",
+  "description": "this is my business blogging site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solowings02/nepaliTechEntrepreneur-sBlogs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solowings02/nepaliTechEntrepreneur-sBlogs/issues"
+  },
+  "homepage": "https://github.com/solowings02/nepaliTechEntrepreneur-sBlogs#readme"
+}
